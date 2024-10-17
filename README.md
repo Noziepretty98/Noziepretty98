@@ -1,26 +1,25 @@
 Here's a detailed README file for your project:
 
-*Student Performance Prediction Project*
+# 👋 Hi, I’m Noziepretty98!
+- 👀 I’m interested in learning new things and creating content, especially in data science and web technologies.
+- 🌱 I’m currently learning data science and web development.
+- 💼 I'm a student at the University of Limpopo, pursuing a Master's degree.
+- 🛠 I'm experienced with Python, Jupyter Notebooks, AWS, Streamlit, and GitHub.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/
+nozipho-bhila-a96b20211) | [YouTube Channel](UC5qUQ7H7DO18VyNo2fRIxEw)
 
-*Overview*
+## 🌟 Featured Projects:
+- [South African Language Identification](link-to-repo): A classification hackathon project aimed at identifying South African languages.
+- [Load Shortfall Regression API](link-to-repo): API built to predict load shortfall using regression models.
+- [Unsupervised Predict Streamlit Template](link-to-repo): A recommender system based on Streamlit for the EDSA Unsupervised Sprint.
 
-This project leverages data science techniques to predict student performance, enabling educators to identify areas where students require additional support. The goal is to develop a predictive model that accurately forecasts student outcomes, informing data-driven decisions in education.
+## 🏅 Certifications:
+- AWS Certified Cloud Practitioner
+- Data Science Certificate
 
-*Dataset*
+## ⚡ Skills:
+- Python | Jupyter Notebooks | Streamlit | AWS | Data Science | Web Development
 
-- *Source*: [ Kaggle]
-- *Description*: [ Race, gender, parents education, preparing, learning behaviors]
-- *Features*:
-    - Demographic variables (age, gender, ethnicity)
-    - Academic variables (grades, test scores, attendance)
-    - Learning behavior variables (study habits, extracurricular activities)
-
-*Models*
-
-- *Linear Regression*: A linear model predicting student performance based on selected features.
-- *Random Forest*: An ensemble model combining multiple decision trees to improve prediction accuracy.
-
-*Performance Metrics*
 
 - *R-squared*: Measures the model's goodness of fit.
 - *Mean Squared Error (MSE)*: Evaluates the model's prediction accuracy.
