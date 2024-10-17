@@ -9,9 +9,10 @@ Here's a detailed README file for your project:
 nozipho-bhila-a96b20211) | [YouTube Channel](UC5qUQ7H7DO18VyNo2fRIxEw)
 
 ## 🌟 Featured Projects:
-- [South African Language Identification](link-to-repo): A classification hackathon project aimed at identifying South African languages.
-- [Load Shortfall Regression API](link-to-repo): API built to predict load shortfall using regression models.
-- [Unsupervised Predict Streamlit Template](link-to-repo): A recommender system based on Streamlit for the EDSA Unsupervised Sprint.
+- [South African Language Identification](https://github.com/Noziepretty98/NozieSouth-African-Language-Identification): A classification hackathon project aimed at identifying South African languages.
+- [Load Shortfall Regression API](https://github.com/Noziepretty98/load-shortfall-regression-predict-api): API built to predict load shortfall using regression models.
+- [Classification Predict Streamlit Template](https://github.com/Noziepretty98/classification-predict-streamlit-template): Template repository for the EDSA Classification Predict Sprint using Streamlit.
+- [Unsupervised Predict Streamlit Template](https://github.com/Noziepretty98/unsupervised-predict-streamlit-template): Streamlit-based recommender system for the EDSA Unsupervised Sprint.
 
 ## 🏅 Certifications:
 - AWS Certified Cloud Practitioner
