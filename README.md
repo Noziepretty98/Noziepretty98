@@ -3,7 +3,7 @@ Here's a detailed README file for your project:
 # 👋 Hi, I’m Noziepretty98!
 - 👀 I’m interested in learning new things and creating content, especially in data science and web technologies.
 - 🌱 I’m currently learning data science and web development.
-- 💼 I'm a student at the University of Limpopo, pursuing a Master's degree.
+- 💼 I'm a student at the University of Johanesburg, pursuing a Master's degree.
 - 🛠 I'm experienced with Python, Jupyter Notebooks, AWS, Streamlit, and GitHub.
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/
 nozipho-bhila-a96b20211) | [YouTube Channel](UC5qUQ7H7DO18VyNo2fRIxEw)
